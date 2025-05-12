@@ -1,4 +1,4 @@
-#Currency Note Authentication
+Currency Note Authentication
 
 Purpose:
 
